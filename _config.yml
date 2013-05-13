@@ -3,7 +3,7 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
-exclude:     []
+exclude:     ['config.rb', 'sass', 'MIT-LICENSE.txt', 'README.md', 'CNAME']
 keep_files:  ['.git','.svn']
 timezone:    nil
 
@@ -23,10 +23,7 @@ textile_ext:   textile
 
 excerpt_separator: "\n\n"
 
-auto:        true
 safe:        true
-watch:       false    # deprecated
-server:      false    # deprecated
 host:        0.0.0.0
 port:        4000
 baseurl:     /
