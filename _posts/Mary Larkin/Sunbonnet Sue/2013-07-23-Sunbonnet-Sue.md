@@ -12,6 +12,8 @@ css:           "height: 300px; width: 100%;"
 
 # Lena's Garden
 
+## by Mark Larkin
+
 I started embroidering Sun Bonnet Sue blocks so that I would have a project when I went to the Guild Bee's, not sure what I was going to make with them.  As I progressed, these embroidered blocks reminded me of my great niece, Alena, who is 20 months old and so sweet and dainty.  I decided I would make a quilt for her, but I wanted to add blocks of pastel fabric to compliment the Sun Bonnet Sue blocks.  As you can see I pieced this top and called it "Lena's Garden."
 
 The most wonderful thing came about when I asked Jackie if she would long-arm quilt the top. Jackie not only took the time to show me different designs but asked if she could try some more elaborate quilting to my top. Of course I agreed and when it was finished, Jackie sent me pictures of the quilt.
