@@ -2,6 +2,9 @@
 published: false
 ---
 
+---
+title: Post
+---
 ## A New Post
 
 This is ready
