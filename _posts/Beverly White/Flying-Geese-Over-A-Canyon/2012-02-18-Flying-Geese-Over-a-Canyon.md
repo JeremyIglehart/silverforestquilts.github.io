@@ -8,6 +8,6 @@ tags:          frontpage
 columnCSS:     "large-4 columns"
 featuredImage: https://googledrive.com/host/0B-vuMfeC1rxzbHRkYTZTdkYtUVk
 css:           "height: 300px; width: 100%;"
---
+---
 
 # Flying Geese Over a Canyon
