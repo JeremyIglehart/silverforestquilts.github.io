@@ -7,11 +7,12 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
 
-  <title>Welcome to Foundation | Grid</title>
+  <title>{% if page.title %} {{ page.title }}  |   {% endif %}Silver Forest Quilts</title>
 
   <!-- Included CSS Files -->
   <link rel="stylesheet" href="/css/normalize.css">
   <link rel="stylesheet" href="/css/foundation.css">
+  <link rel="stylesheet" href="/css/silverforestquilts.css">
   
 
   <script src="/js/vendor/custom.modernizr.js"></script>
@@ -25,7 +26,7 @@
       <!-- Title Area -->
       <li class="name">
         <h1>
-          <a href="#">
+          <a href="{{site.url}}">
             Silver Forest Quilts
           </a>
         </h1>
@@ -131,11 +132,13 @@
     {{ content }}
 
     {% for post in site.tags.frontpage %}
-    <div class="{{ post.additionalFrontPageCSSClasses }}">
-      <div class="panel">
-        <a href="{{post.url}}"><h5>{{ post.title }}</h5></a>
-        <p>was inspired by "T-Shirt Quilts Made Easy"</p>
-      </div>
+    <div class="{{post.columnCSS}}">
+      <a href="{{post.url}}">
+        <div style="{{post.css}} background: url('{{ post.featuredImage }}') no-repeat center top;">
+          <h5>{{ post.title }}</h5>
+          <!--<p>was inspired by "T-Shirt Quilts Made Easy"</p>-->
+        </div>
+      </a>
     </div>
     {% endfor %}
 

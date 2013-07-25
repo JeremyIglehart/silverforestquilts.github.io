@@ -1,11 +1,16 @@
 ---
-layout:     quilt
-title:      Bobby's Memorial T-Shirt Quilt
-date:       2013-07-22 17:20:05
-tags: frontpage
+layout:        quilt
+title:         Bobby's Memorial T-Shirt Quilt
+date:          2013-07-24 19:20:05
+
+tags:          frontpage
+
+columnCSS:     "large-8 columns"
+featuredImage: https://googledrive.com/host/0B-vuMfeC1rxzZTdkM0ZVSF9nUUU
+css:           "height: 300px; width: 100%;"
 ---
 
-#Bobby's Memorial T-Shirt Quilt
+# Bobby's Memorial T-Shirt Quilt
 
 was inspired by "T-Shirt Quilts Made Easy" by Martha Deleonardis , AQS Publishing.  It is a modified "Safari Sashed" quilt.  Be sure to use a Teflon sheet and wet pressing cloth for fusing your T-shirts, and save some of the t-shirt cut off to fuse pictures made with Fusible Fabric and your inkjet printer.
 
