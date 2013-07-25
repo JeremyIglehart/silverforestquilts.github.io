@@ -1,5 +1,8 @@
 ---
 layout: default
-title: "Silver Forest Quilts is under construction"
+title:  Home
 ---
-This page is under construction...
+
+<div style="text-align: center; margin-bottom: 1.875em;">
+	<img src="https://googledrive.com/host/0B-vuMfeC1rxzbXFhenZnbGRhVUk" />
+</div>
