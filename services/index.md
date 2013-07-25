@@ -80,6 +80,6 @@ Saturday: 10:00-4:00
 **Shipping Address**<br />
 Jackie Iglehart
 
-Silver Forest Quilts
-1430 Crestmont Dr.
-Downingtown, PA, 19335
+Silver Forest Quilts<br />
+1430 Crestmont Dr.<br />
+Downingtown, PA, 19335<br />
