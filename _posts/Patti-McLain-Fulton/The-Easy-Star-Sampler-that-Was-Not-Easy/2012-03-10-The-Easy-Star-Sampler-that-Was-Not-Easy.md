@@ -6,7 +6,7 @@ date:          2012-03-10 00:00:00
 tags: frontpage
 
 columnCSS:     "large-8 columns"
-featuredImage: https://googledrive.com/host/0B-vuMfeC1rxzZTdkM0ZVSF9nUUU
+featuredImage: https://googledrive.com/host/0B-vuMfeC1rxzcHBUSkJ6QklqdFU
 css:           "height: 300px; width: 100%;"
 ---
 
