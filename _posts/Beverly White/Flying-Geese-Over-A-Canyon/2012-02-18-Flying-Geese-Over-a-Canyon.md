@@ -7,7 +7,7 @@ tags:          frontpage
 
 columnCSS:     "large-6 columns"
 featuredImage: https://lh3.googleusercontent.com/-HUBkdeOQUGQ/UfbInmH_GBI/AAAAAAAAARw/Sir-yNhPhzw/h300/photo.jpg
-css:           "height: 300px; width: 100%; background-position: left center;"
+css:           "height: 350px; width: 100%; background-position: left center;"
 ---
 
 # Flying Geese Over a Canyon
