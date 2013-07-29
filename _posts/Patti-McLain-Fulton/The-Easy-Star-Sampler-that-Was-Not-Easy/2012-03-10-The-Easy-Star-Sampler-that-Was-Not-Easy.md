@@ -6,13 +6,13 @@ date:          2012-03-10 00:00:00
 tags: frontpage
 
 columnCSS:     "large-6 columns"
-featuredImage: https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/w470/photo.jpg
 css:           "height: 370px; width: 100%;"
+
+featuredImage:       https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/w470/photo.jpg
+featuredImageOnPage: https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/w1000/photo.jpg
 ---
 
-# The Easy Star Quilt that Wasn't Easy
-
-### Patti McLain Fulton
+### by Patti McLain Fulton
 
 I took this class several years ago.  The pattern was called Easy Star Sampler.  Well, it wasn't.  Since I'm always slow while working my quilts, I had the advantage of hearing all of the comments (some including tears and swear words).  So, when a very experienced friend of mine said that putting the blocks on point was too hard, I decided not to do that.  When the beautiful ribbon border brought another very experienced quilter to tears, I decided not to do that either.  So, I just did a straight set with sashing and cornerstones.  Then the quiltop just sat for a few years. 
 

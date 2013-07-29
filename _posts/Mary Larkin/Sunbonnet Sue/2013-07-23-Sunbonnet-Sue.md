@@ -6,11 +6,11 @@ date:          2013-07-23 17:20:05
 tags:          frontpage
 
 columnCSS:     "large-8 columns"
-featuredImage: https://lh6.googleusercontent.com/-SFhNqCkYP7o/UfbFB1OfkKI/AAAAAAAAAQo/b2hEydnOlvk/w637/photo.jpg
 css:           "height: 400px; width: 100%;"
----
 
-# Lena's Garden
+featuredImage:       https://lh6.googleusercontent.com/-SFhNqCkYP7o/UfbFB1OfkKI/AAAAAAAAAQo/b2hEydnOlvk/w637/photo.jpg
+featuredImageOnPage: https://lh6.googleusercontent.com/-SFhNqCkYP7o/UfbFB1OfkKI/AAAAAAAAAQo/b2hEydnOlvk/w1000/photo.jpg
+---
 
 ### by Mary Larkin
 

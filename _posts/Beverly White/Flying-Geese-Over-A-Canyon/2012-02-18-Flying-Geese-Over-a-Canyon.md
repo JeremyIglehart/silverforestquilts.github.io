@@ -6,11 +6,11 @@ date:          2012-02-18 00:00:00
 tags:          frontpage
 
 columnCSS:     "large-6 columns"
-featuredImage: https://lh3.googleusercontent.com/-HUBkdeOQUGQ/UfbInmH_GBI/AAAAAAAAARw/Sir-yNhPhzw/w470/photo.jpg
 css:           "height: 352px; width: 100%; background-position: left center;"
----
 
-# Flying Geese Over a Canyon
+featuredImage:       https://lh3.googleusercontent.com/-HUBkdeOQUGQ/UfbInmH_GBI/AAAAAAAAARw/Sir-yNhPhzw/w470/photo.jpg
+featuredImageOnPage: https://lh3.googleusercontent.com/-HUBkdeOQUGQ/UfbInmH_GBI/AAAAAAAAARw/Sir-yNhPhzw/w1000/photo.jpg
+---
 
 ### by Beverly W.
 
