@@ -7,7 +7,7 @@ tags:          frontpage
 
 columnCSS:     "large-8 columns"
 featuredImage: https://lh3.googleusercontent.com/-gTBcrNTMldc/UfbBoL1j8dI/AAAAAAAAAQI/qu09YxPTUL0/w637/photo.jpg
-css:           "height: 300px; width: 100%; background-position: center center;"
+css:           "height: 300px; width: 100%; background-position: left center;"
 ---
 
 # Bobby's Memorial T-Shirt Quilt
