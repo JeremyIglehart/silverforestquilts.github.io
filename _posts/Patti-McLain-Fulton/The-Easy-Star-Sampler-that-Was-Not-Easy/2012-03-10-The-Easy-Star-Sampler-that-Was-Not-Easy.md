@@ -7,7 +7,7 @@ tags: frontpage
 
 columnCSS:     "large-6 columns"
 featuredImage: https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/h300/photo.jpg
-css:           "height: 300px; width: 100%;"
+css:           "height: 350px; width: 100%;"
 ---
 
 # The Easy Star Quilt that Wasn't Easy
