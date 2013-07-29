@@ -6,7 +6,7 @@ date:          2012-03-10 00:00:00
 tags: frontpage
 
 columnCSS:     "large-6 columns"
-featuredImage: https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/h370/photo.jpg
+featuredImage: https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/w470/photo.jpg
 css:           "height: 370px; width: 100%;"
 ---
 
