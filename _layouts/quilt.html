@@ -10,6 +10,15 @@ layout: default
   <img class="Quilt__featured-image" src="{{page.featuredImageOnPage}}" />
 </div>
 
+{% for image in page.imagesOnPage %}
+<div class="Quilt_image-on-page">
+  <a href="{{image}}">
+    <div style="background: url('{{ post.featuredImage }}') no-repeat center center;">
+    </div>
+  </a>
+</div>
+{% endfor %}
+
 {% endif %}
 
 {{ content }}
