@@ -6,8 +6,8 @@ date:          2013-07-23 17:20:05
 tags:          frontpage
 
 columnCSS:     "large-4 columns"
-featuredImage: https://googledrive.com/host/0B-vuMfeC1rxzMERXdUNidnhQdk0
-css:           "height: 300px; width: 100%;"
+featuredImage: https://lh6.googleusercontent.com/-SFhNqCkYP7o/UfbFB1OfkKI/AAAAAAAAAQo/b2hEydnOlvk/w637/photo.jpg
+css:           "height: 400px; width: 100%;"
 ---
 
 # Lena's Garden
