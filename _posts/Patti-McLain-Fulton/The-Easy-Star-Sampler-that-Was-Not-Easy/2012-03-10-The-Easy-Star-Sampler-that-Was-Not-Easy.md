@@ -5,9 +5,9 @@ date:          2012-03-10 00:00:00
 
 tags: frontpage
 
-columnCSS:     "large-8 columns"
-featuredImage: https://googledrive.com/host/0B-vuMfeC1rxzcHBUSkJ6QklqdFU
-css:           "height: 300px; width: 100%;"
+columnCSS:     "large-4 columns"
+featuredImage: https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/h400/photo.jpg
+css:           "height: 400px; width: 100%;"
 ---
 
 # The Easy Star Quilt that Wasn't Easy
