@@ -6,8 +6,10 @@ date:          2013-07-24 19:20:05
 tags:          frontpage
 
 columnCSS:     "large-8 columns"
-featuredImage: https://lh3.googleusercontent.com/-gTBcrNTMldc/UfbBoL1j8dI/AAAAAAAAAQI/qu09YxPTUL0/w637/photo.jpg
 css:           "height: 400px; width: 100%; background-position: left center;"
+
+featuredImage:       https://lh3.googleusercontent.com/-gTBcrNTMldc/UfbBoL1j8dI/AAAAAAAAAQI/qu09YxPTUL0/w637/photo.jpg
+featuredImageOnPage: https://lh3.googleusercontent.com/-gTBcrNTMldc/UfbBoL1j8dI/AAAAAAAAAQI/qu09YxPTUL0/w1000/photo.jpg
 ---
 
 # Bobby's Memorial T-Shirt Quilt
