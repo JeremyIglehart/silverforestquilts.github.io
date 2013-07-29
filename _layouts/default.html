@@ -135,7 +135,7 @@
     {% for post in site.tags.frontpage %}
     <div class="{{post.columnCSS}}">
       <a href="{{post.url}}">
-        <div style="background: url('{{ post.featuredImage }} {{post.css}}') no-repeat center top;">
+        <div style="background: url('{{ post.featuredImage }}') no-repeat center top; {{post.css}}">
           <!--<h5>{{ post.title }}</h5>-->
           <!--<p>was inspired by "T-Shirt Quilts Made Easy"</p>-->
         </div>
