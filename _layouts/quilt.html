@@ -15,11 +15,13 @@ layout: default
 {% if page.imagesOnPage %}
 
 {% for image in page.imagesOnPage %}
-<div class="Quilt_image-on-page">
-  <a href="{{image}}">
-    <img src="{{image}}" />
-    </div>
-  </a>
+<div class="row">
+	<div class="Quilt_image-on-page large-8 columns">
+	  <a href="{{image}}">
+	    <img src="{{image}}" />
+	    </div>
+	  </a>
+	</div>
 </div>
 {% endfor %}
 
