@@ -14,15 +14,17 @@ layout: default
 
 {% if page.imagesOnPage %}
 
-{% for image in page.imagesOnPage %}
 <div class="row">
+
+	{% for image in page.imagesOnPage %}
 	<div class="Quilt_image-on-page large-8 columns">
 	  <a href="{{image}}">
 	    <img src="{{image}}" />
 	  </a>
 	</div>
+	{% endfor %}
+
 </div>
-{% endfor %}
 
 {% endif %}
 
