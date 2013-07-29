@@ -10,6 +10,17 @@ css:           "height: 370px; width: 100%;"
 
 featuredImage:       https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/w470/photo.jpg
 featuredImageOnPage: https://lh3.googleusercontent.com/-4ozODDpEMIw/UfbHdjpJJWI/AAAAAAAAARY/o0DYbXXVlbc/w1000/photo.jpg
+
+imagesOnPage: [
+               'https://lh5.googleusercontent.com/Hny-UxI2qaHk4wV6YcY3QNFAlfeqJs7rqMkSdvSwS3c=w416-h312-p-no',
+               'https://lh6.googleusercontent.com/iOk0D5gPxX0kZDPijUGN52SJ_Ad1ERFSi5BZHsSaCMk=w416-h312-p-no',
+               'https://lh6.googleusercontent.com/jhTVCxpTLHCmB1IXsH_lBOolRfM-ufimi2TIZ9aCIUQ=w418-h312-p-no',
+               'https://lh5.googleusercontent.com/f45a2rImQ0v1qBGn5qiAjh4NXo3JQhKOWi1LBSruobo=w416-h312-p-no',
+               'https://lh3.googleusercontent.com/D9d7lUr-5tKTy5iSuZ_DW5OEEHJ4D8DoBbOr-lWCvIE=w416-h312-p-no',
+               'https://lh6.googleusercontent.com/D5SuIxFy2ASJ-d3ZG6HSPVlPQbXv_vb_QOX2uQ-ik3E=w418-h312-p-no',
+               'https://lh3.googleusercontent.com/sTfKgOLQ2soM95_QiZ2fQFYXJXgJ9mWUZrXoPSzYlUI=w552-h414-p-no',
+               'https://lh6.googleusercontent.com/SnqgssWLzAMfOMJM56YjZIZuXBMMPswNTFAxZx8jZug=w552-h414-p-no'
+              ]
 ---
 
 ### by Patti McLain Fulton

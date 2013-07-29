@@ -10,6 +10,16 @@ css:           "height: 352px; width: 100%; background-position: left center;"
 
 featuredImage:       https://lh3.googleusercontent.com/-HUBkdeOQUGQ/UfbInmH_GBI/AAAAAAAAARw/Sir-yNhPhzw/w470/photo.jpg
 featuredImageOnPage: https://lh3.googleusercontent.com/-HUBkdeOQUGQ/UfbInmH_GBI/AAAAAAAAARw/Sir-yNhPhzw/w1000/photo.jpg
+
+imagesOnPage: [
+               'https://lh5.googleusercontent.com/SH_sAU7As2KBo-vbijYqrhadfF15Lxb7sKUITwEKrw=w303',
+               'https://lh6.googleusercontent.com/llYaenY1usz-4fX7QnkN4DJ4qccUSMYOi0p71T0lRw=w303',
+               'https://lh5.googleusercontent.com/caSJIPGce0k5ziIACKapALw5dNypV2aAz-UkbnMwQA=w303',
+               'https://lh4.googleusercontent.com/R9q5L5XRgennEYvwFWbHsNR47HY9oZz3c8UP1uqe7Q=w303',
+               'https://lh4.googleusercontent.com/JAziGR-xlF8vJKB_D79YXpx7Lpk-AvwOtqSraHYK6A=w303',
+               'https://lh4.googleusercontent.com/JL0pPQ0JOlbjB2wOA3SUpLAq0G5pBPLhQo99LF4gKA=w303',
+               'https://lh6.googleusercontent.com/qdavG3LBfAF8DelwLJPXfDMzKDbKtLrZdCz1EPD-sio=w303'
+              ]
 ---
 
 ### by Beverly W.

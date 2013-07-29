@@ -10,6 +10,13 @@ css:           "height: 400px; width: 100%;"
 
 featuredImage:       https://lh6.googleusercontent.com/-SFhNqCkYP7o/UfbFB1OfkKI/AAAAAAAAAQo/b2hEydnOlvk/w637/photo.jpg
 featuredImageOnPage: https://lh6.googleusercontent.com/-SFhNqCkYP7o/UfbFB1OfkKI/AAAAAAAAAQo/b2hEydnOlvk/w1000/photo.jpg
+
+imagesOnPage: [
+               'https://lh6.googleusercontent.com/wvaNgpKlKZU5JC-XixUQigr51atJF5ft_04wFBr_lMw=w303',
+               'https://lh5.googleusercontent.com/ZeFgWW4_a6w_bdAs9N2Iyv3GENYa7N-m8E6BI7Gq2AQ=w303',
+               'https://lh3.googleusercontent.com/rxoORDT5ekWhF-lrl19Wh91FZ3KTLnACbvR0Ge2rlZs=w303',
+               'https://lh5.googleusercontent.com/9rpEMieRtS7ozW9rS8T3T4ugnqa1l9MQclJzMN7cBls=w303',           
+              ]
 ---
 
 ### by Mary Larkin
