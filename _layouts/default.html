@@ -7,7 +7,7 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
 
-  <title>{% if page.title %} {{ page.title }}  |   {% endif %}Silver Forest Quilts</title>
+  <title>{% if page.title %} {{ page.title }}  |   {% endif %}{{site.title}}</title>
 
   <!-- Included CSS Files -->
   <link rel="stylesheet" href="/css/app.css">
@@ -18,107 +18,39 @@
 <body>
 
   <!-- Header and Nav -->
-  <nav class="top-bar">
-    <ul class="title-area">
-      <!-- Title Area -->
-      <li class="name">
-        <h1>
-          <a href="{{site.url}}">
-            Silver Forest Quilts
-          </a>
-        </h1>
-      </li>
-      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-    </ul>
-
-    <section class="top-bar-section">
-      <!-- Left Nav Section -->
-      <ul class="left">
-        <li class="divider"></li>
-        <li><a href="/services">Services</a></li>
-        <!-- <li class="has-dropdown">
-          <a class="active" href="#">Services</a>
-          <ul class="dropdown">
-            <li><label>Section Name</label></li>
-            <li><a href="#" class="">Dropdown Level 1</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><label>Section Name</label></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><a href="#">See all &rarr;</a></li>
-          </ul>
-        </li> -->
-        <li class="divider"></li>
-        <li><a href="/batting">Batting</a></li>
-        <li class="divider"></li>
-        <li class="has-dropdown">
-          <a href="#">Main Item 3</a>
-          <ul class="dropdown">
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><a href="#">See all &rarr;</a></li>
-          </ul>
+  <div class="sticky">
+    <nav class="top-bar">
+      <ul class="title-area">
+        <!-- Title Area -->
+        <li class="name">
+          <h1>
+            <a href="{{site.url}}">
+              {{site.title}}
+            </a>
+          </h1>
         </li>
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
       </ul>
 
-      <!-- Right Nav Section -->
-      <ul class="right">
-        <li class="divider"></li>
-        <li class="has-dropdown">
-          <a href="#">Main Item 4</a>
-          <ul class="dropdown">
-            <li><label>Section Name</label></li>
-            <li class="has-dropdown">
-              <a href="#" class="">Has Dropdown, Level 1</a>
-              <ul class="dropdown">
-                <li><a href="#">Dropdown Options</a></li>
-                <li><a href="#">Dropdown Options</a></li>
-                <li class="has-dropdown">
-                  <a href="#">Has Dropdown, Level 2</a>
-                  <ul class="dropdown test">
-                    <li><a href="#">Subdropdown Option</a></li>
-                    <li><a href="#">Subdropdown Option</a></li>
-                    <li><a href="#">Subdropdown Option</a></li>
-                  </ul>
-                </li>
-                <li><a href="#">Subdropdown Option</a></li>
-                <li><a href="#">Subdropdown Option</a></li>
-                <li><a href="#">Subdropdown Option</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><label>Section Name</label></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><a href="#">See all &rarr;</a></li>
-          </ul>
-        </li>
-        <li class="divider"></li>
-        <li><a href="#">Main Item 5</a></li>
-        <li class="divider"></li>
-        <li class="has-dropdown">
-          <a href="#">Main Item 6</a>
-          <ul class="dropdown">
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><a href="#">See all &rarr;</a></li>
-          </ul>
-        </li>
-      </ul>
-    </section>
-  </nav>
+      <section class="top-bar-section">
+        <!-- Left Nav Section -->
+
+        <!-- Right Nav Section -->
+        <ul class="right">
+          <li><a href="/services">Services</a></li>
+          <li class="divider"></li>
+          <li><a href="/batting">Batting</a></li>
+          <li class="divider"></li>
+          <li class="has-dropdown">
+            <a href="#">Contact Jackie</a>
+            <ul class="dropdown">
+              <li><a href="tel:+16102690449">+1 (610) 269-0449</a></li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+    </nav>
+  </div>
 
 
   <!-- End Header and Nav -->
