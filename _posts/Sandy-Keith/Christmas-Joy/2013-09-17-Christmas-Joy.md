@@ -20,7 +20,7 @@ imagesOnPage: [
               ]
 ---
 
-### by S. L. Keith
+### by Sandy Keith
 
 This is the first quilt, in all my many quilting years, that I have set on an angle and I have to say it made me crazy at times. However, it turned out lovely and of all the quilts I've made, is one of the few I've kept because it turned out so pretty.
 
