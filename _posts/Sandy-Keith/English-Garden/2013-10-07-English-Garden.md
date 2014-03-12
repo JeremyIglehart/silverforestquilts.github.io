@@ -23,6 +23,6 @@ imagesOnPage: [
               ]
 ---
 
-### by S. L. Keith
+### by Sandy Keith
 
 Since I am not a fan of heavily quilted quilts, Jackie assured me she would quilt it loosely and use a bird pattern. As the quilt was going to a granddaughter who is a high school art teacher, I wanted it to be colorful and for the piecing to take center stage and not the quilting. Jackie did just as I asked and my granddaughter loved it.
