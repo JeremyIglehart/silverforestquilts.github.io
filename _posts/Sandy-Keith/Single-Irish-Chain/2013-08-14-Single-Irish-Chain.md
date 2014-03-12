@@ -26,7 +26,7 @@ imagesOnPage: [
               ]
 ---
 
-### by S. L. Keith
+### by Sandy Keith
 
 I always thought an Irish Chain would be difficult until I saw Jenny Doan's tutorial on the Missiour Star Quilt Co. She used precuts and so did I. This quilt was easy peasy to make and in the end, I was so thrilled with it that I just had to have it professionally quilted and Jackie did an outstanding job.
 
