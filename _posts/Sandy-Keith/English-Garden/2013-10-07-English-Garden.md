@@ -8,6 +8,8 @@ tags: frontpage
 columnCSS:     "large-6 columns"
 css:           "height: 370px; width: 100%;"
 
+
+
 featuredImage:       https://lh5.googleusercontent.com/-J_P_p-6wO6w/Ux9PwZo_uEI/AAAAAAAABEU/jnYky48NXug/w470/DSCN6610.JPG
 featuredImageOnPage: https://lh5.googleusercontent.com/-J_P_p-6wO6w/Ux9PwZo_uEI/AAAAAAAABEU/jnYky48NXug/w1000/DSCN6610.JPG
 
@@ -18,11 +20,6 @@ imagesOnPage: [
                'https://lh4.googleusercontent.com/mxjfYErS8dV7BNkOpOqp9qV4BsGy3Jr4VhJ_u9uwHJM=w303',
                'https://lh3.googleusercontent.com/OJA70MeS0X6Q40_ditABke3WNadOMjm-iht4OAQryFo=w303',
                'https://lh4.googleusercontent.com/RM4m0colAFMDFLZyldSBua-BMjgTBYKV_Y3LOLzoiiY=w303'
-               
-https://lh4.googleusercontent.com/-saqcB5ot_M4/Ux9P7eiH3xI/AAAAAAAABEw/kiIrIvzi5x4/w297-h221-p-no/DSCN6594.JPG
-
-https://lh4.googleusercontent.com/mxjfYErS8dV7BNkOpOqp9qV4BsGy3Jr4VhJ_u9uwHJM=w296-h221-p-no
-              
               ]
 ---
 
