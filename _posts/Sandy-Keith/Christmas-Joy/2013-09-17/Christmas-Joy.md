@@ -8,6 +8,7 @@ tags: frontpage
 columnCSS:     "large-6 columns"
 css:           "height: 370px; width: 100%;"
 
+
 featuredImage:       https://lh5.googleusercontent.com/NWcf1XbXMgT70hiqJtkFYoA8rRVPbWIs6b_3PIK5DMA=w470
 featuredImageOnPage: https://lh5.googleusercontent.com/NWcf1XbXMgT70hiqJtkFYoA8rRVPbWIs6b_3PIK5DMA=w1000
 
