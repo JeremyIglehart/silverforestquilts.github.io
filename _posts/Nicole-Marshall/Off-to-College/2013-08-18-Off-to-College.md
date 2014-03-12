@@ -12,7 +12,7 @@ featuredImage:       https://lh5.googleusercontent.com/NMzxRQoKjgrEljBvBSkwn0x61
 featuredImageOnPage: https://lh5.googleusercontent.com/NMzxRQoKjgrEljBvBSkwn0x613xGAks3nk7DK6ceJVQ=w1000
 
 imagesOnPage: [
-               'https://lh3.googleusercontent.com/wHGsCGHKz8hSaXIW8TYqQGeekzxB1hvzNrrfmG4liaI=w303,
+               'https://lh3.googleusercontent.com/wHGsCGHKz8hSaXIW8TYqQGeekzxB1hvzNrrfmG4liaI=w303',
                'https://lh4.googleusercontent.com/0DMVYiLchn5m9-1VCXz04Rm7cgoZT3EX9_0MlIqwrI8=w303',
                'https://lh3.googleusercontent.com/123f550WOBiHxEuImMAHxT6aKVT8oJJ2k9BfShTOYds=w303',
                'https://lh5.googleusercontent.com/xmLDpFPHTF2u9ao-r_IWi-zUU5xKXe5oIkmELmtp7wA=w303',
@@ -24,4 +24,3 @@ imagesOnPage: [
 ---
 
 ### by Nicole M.
-
