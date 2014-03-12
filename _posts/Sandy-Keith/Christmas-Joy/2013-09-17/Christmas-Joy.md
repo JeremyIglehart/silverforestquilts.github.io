@@ -8,9 +8,8 @@ tags: frontpage
 columnCSS:     "large-6 columns"
 css:           "height: 370px; width: 100%;"
 
-
-featuredImage:       https://lh5.googleusercontent.com/NWcf1XbXMgT70hiqJtkFYoA8rRVPbWIs6b_3PIK5DMA=w470
-featuredImageOnPage: https://lh5.googleusercontent.com/NWcf1XbXMgT70hiqJtkFYoA8rRVPbWIs6b_3PIK5DMA=w1000
+featuredImage:       https://lh4.googleusercontent.com/JK5s8QTb-Nb1bSue6tkUJialjYWq0P2ThpHun5lYA5c=w470
+featuredImageOnPage: https://lh4.googleusercontent.com/JK5s8QTb-Nb1bSue6tkUJialjYWq0P2ThpHun5lYA5c=w1000
 
 imagesOnPage: [
                'https://lh6.googleusercontent.com/H_pfwelfza50F1IV3_Z0RIFCPmozZjPP4Oy2zea505o=w303',
