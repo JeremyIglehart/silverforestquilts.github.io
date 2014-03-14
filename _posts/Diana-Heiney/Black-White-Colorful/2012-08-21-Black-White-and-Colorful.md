@@ -27,3 +27,5 @@ imagesOnPage: [
 Jackie did a fabulous job on my quilt!  She is thoroughly versed in her art and was very willing to listen to help me define and achieve my quilting goals within my budget, which was greatly appreciated as this was my first time using a longarm service. 
  
 Diana owns Glass On The Square, www.glassonthesquare.com creating art with stained glass.
+
+Diana owns [“Glass On The Square”] (https://www.glassonthesquare.com), creating art with stained glass.
