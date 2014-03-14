@@ -25,7 +25,5 @@ imagesOnPage: [
  I guess the only thing I could say about the quilt is that it was the result of engaging in too many 5" Charm exchanges when I first started thinking about building a stash. Then I had to think about what to do with them and this take on an old pattern called “Evening Star” resulted.  
 
 Jackie did a fabulous job on my quilt!  She is thoroughly versed in her art and was very willing to listen to help me define and achieve my quilting goals within my budget, which was greatly appreciated as this was my first time using a longarm service. 
- 
-Diana owns Glass On The Square, www.glassonthesquare.com creating art with stained glass.
 
 Diana owns [“Glass On The Square”] (https://www.glassonthesquare.com), creating art with stained glass.
