@@ -16,7 +16,7 @@ imagesOnPage: [
                'https://lh6.googleusercontent.com/5m-h8SowwraRu5EAuvMBysaJL9482HDobZtjCvsgzw=w303',
                'https://lh4.googleusercontent.com/9iK3JwB_Vcrsner2tnttdOs_VXYMUXDPbpEZ_Ug7RQ=w303',
                'https://lh3.googleusercontent.com/T430E_Eq0-kSNn7M3BI6jmXR6L3RTe2penEkKkaBucY=w303',
-               'https://lh3.googleusercontent.com/T430E_Eq0-kSNn7M3BI6jmXR6L3RTe2penEkKkaBucY=w303'
+               'https://lh4.googleusercontent.com/kmUWQ1sdLjYIClItdoE-RBaEXmmJl3jeMbpu3jzK_A=w303'
               ]
 ---
 
