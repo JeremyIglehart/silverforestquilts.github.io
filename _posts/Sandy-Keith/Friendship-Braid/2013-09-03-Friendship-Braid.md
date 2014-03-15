@@ -1,7 +1,7 @@
 ---
 layout:        quilt
 title:         Friendship Braid
-date:          2014-09-03-10 00:00:00
+date:          2013-09-03 00:00:00
 
 tags: frontpage
 
