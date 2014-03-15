@@ -25,4 +25,4 @@ imagesOnPage: [
 
 ### by Beverly W.
 
-Thank you, Gardner's Landscape and Nursery of Lionville PA for allowing us to do the photo shoot for Beverly's quilt in their gift shop.
+Thank you to Gardner's Landscape and Nursery of Lionville PA for allowing us to do the photo shoot for Beverly's quilt in their gift shop.
