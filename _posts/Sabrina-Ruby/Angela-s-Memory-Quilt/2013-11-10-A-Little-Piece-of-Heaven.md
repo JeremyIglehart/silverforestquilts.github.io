@@ -1,6 +1,6 @@
 ---
 layout:        quilt
-title:         
+title:         A Little Piece of Heaven
 date:          2013-11-10 00:00:00
 
 tags: frontpage
@@ -24,6 +24,10 @@ imagesOnPage: [
               ]
 ---
 
-### by Sabrina R
+### by Sabrina Ruby
+
+We lost Angie this past year and it tore out our hearts. After we came home I felt the need to do something. My husband and I decided a quilt in loving memory would be wonderful to send. I got together with a friend of mine and we got to work designing, picking up fabric, and spent countless hours on it. It was hard not only because it was a custom pattern, but also hard because of the emotion attached. It was all worth it.
+
+Jackie was wonderful! I told her in general what my husband and I wanted on this quilt and she took it and ran with it. I am no good at all the finishing touches and details, and she took the time to make it happen. When I opened the box and saw the wonderful work she had done to it, I was completely overwhelmed with emotion and love. I ran my fingers along the beautifully crafted, quilted butterflies. I could tell that she took the time not only to make it wonderful, but also had a passion as she quilted it for me! Simply Wonderful!
 
 Photos taken at a historic Presbyterian Church built in 1754 in Lancaster County Pennsylvania.
