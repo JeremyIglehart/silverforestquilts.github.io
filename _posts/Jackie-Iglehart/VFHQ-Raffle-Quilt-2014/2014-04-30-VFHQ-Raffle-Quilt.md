@@ -39,4 +39,4 @@ I was honored that they asked me to quilt it.  I enjoyed researching quilting de
 
 When I first approached the quilting, thread choice was a big concern to me because not only were there several different colors in the fabrics, the larger challenge was the many contrasting colors in the fabrics.  A light color would "pop" on the dark fabrics and vice versa.  In the end, after testing several different threads, I settled on a medium color, variegated mix of the earthtones.  It turned out to be perfect, because while the quilting can be admired up close, this was a quilt where the patchwork design needed to take center stage while the quilting was less prevalent.  The thread I used is Almond Bark in the Rainbows line by Superior Threads.  
 
-Who will be the lucky winner in September?  Tickets are still available.  One for $1.00 or six for $5.00.  valleyforgequilters.org
+Who will be the lucky winner in September?  Tickets are still available.  One for $1.00 or six for $5.00.
