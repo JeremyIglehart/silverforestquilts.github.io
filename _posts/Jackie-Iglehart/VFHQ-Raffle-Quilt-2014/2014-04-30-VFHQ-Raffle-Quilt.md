@@ -1,7 +1,7 @@
 ---
 layout:        quilt
 title:         1862 Battle Hymn
-date:          2012-03-10 00:00:00
+date:          2014-04-30 00:00:00
 
 tags: frontpage
 
