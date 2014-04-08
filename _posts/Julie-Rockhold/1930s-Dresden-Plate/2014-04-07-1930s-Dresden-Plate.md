@@ -15,7 +15,6 @@ imagesOnPage: [
                'https://lh6.googleusercontent.com/YZF3Bol4wzM_7-_CzH6AFSgamFqpFXlsU_K0rbAtuAQ=w303',
                'https://lh6.googleusercontent.com/wmiR9aNufhBkW__BZ1sOFaCloDjmG7KM5iJD7sAGhw0=w303',
                'https://lh3.googleusercontent.com/q1HjxRZMCVsOc7VOcz7JkTS6rjl728I7w-yWc0IO1U8=w303',
-               'https://lh6.googleusercontent.com/QSUEHbw7koVZ-UUzldOzqbmmSYQlUaoyyNuJvJ2SKBs=w303',
                'https://lh4.googleusercontent.com/tQDuRVmtuJ0gMCH38lqNFAwphqVm1VLdwS1fF2iLmgg=w303',
                'https://lh6.googleusercontent.com/AHinjJB80YmYkhjWEYcYnTG-h1IUbMzjwP62Ft1dqiw=w303',
                'https://lh4.googleusercontent.com/AAfs52IW_CfciK-b6I8mQsFAFeyCNgC5Nz8itll37kY=w303',
