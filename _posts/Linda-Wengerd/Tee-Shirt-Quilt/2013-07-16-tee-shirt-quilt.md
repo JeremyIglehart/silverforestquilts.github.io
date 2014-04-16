@@ -21,3 +21,5 @@ imagesOnPage: [
 ---
 
 ### by Linda W.
+
+Thanks to the owners of Wimpy and Dee's Diner in Honey Brook, Pennsylvania for permission to photograph this colorful Tee Shirt Quilt in front of their vintage and picturesque diner!
