@@ -27,4 +27,4 @@ imagesOnPage: [
 
 ### by Sabrina R.
 
-Note from Jackie:  A special thanks to Highland Orchard of West Chester, PA for their so kindly allowing me to photograph Sabrina's quilt in their beautiful orchard.
+Note from Jackie:   A special thanks to Highland Orchards of West Chester, PA for their so kindly allowing me to photograph Sabrina's quilt in their beautiful orchards among the blooming plum trees.
