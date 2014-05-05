@@ -12,7 +12,7 @@ featuredImage:       https://lh3.googleusercontent.com/DmNm5pQo-WpkTm0CprAna8_eg
 featuredImageOnPage: https://lh3.googleusercontent.com/DmNm5pQo-WpkTm0CprAna8_eg35_1ZKc95KHCGInYbc=w1000
 
 imagesOnPage: [
-               'https://lh6.googleusercontent.com/7dWhd57ca2Vl_3mnfPiKRs_tfEmhT2PyceRIRWKZaD8=w=w303',
+               'https://lh6.googleusercontent.com/7dWhd57ca2Vl_3mnfPiKRs_tfEmhT2PyceRIRWKZaD8=w303',
                'https://lh5.googleusercontent.com/iGS7aksrE4tM7d2qA_xOvE3IHA4xOrAOXQahBu5P7Jk=w303',
                'https://lh4.googleusercontent.com/0BnaZeO8iHXY9vkYEAwmCkfjJCf-oNCSjNvW6K9ckwk=w303',
                'https://lh5.googleusercontent.com/RQ9uMSMoXUrGDyVOQVQUN5wGsWyPpBzATuRwp6-lH0c=w303',
