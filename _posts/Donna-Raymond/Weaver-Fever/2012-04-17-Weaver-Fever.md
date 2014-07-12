@@ -1,7 +1,7 @@
 ---
 layout:        quilt
 title:         Weaver Fever
-date:          2012-04-17 00:00:00
+date:          2012-05-05 00:00:00
 
 tags: frontpage
 
@@ -20,4 +20,4 @@ imagesOnPage: [
               ]
 ---
 
-### By D. R.
+### by D.R.
