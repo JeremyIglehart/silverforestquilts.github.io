@@ -19,3 +19,5 @@ imagesOnPage: [
                'https://lh3.googleusercontent.com/N4qrlRirQQFPPvC9QfXUeCC1BkwT6k53VrCMJWySCgg=w303'
               ]
 ---
+
+### By D. R.
