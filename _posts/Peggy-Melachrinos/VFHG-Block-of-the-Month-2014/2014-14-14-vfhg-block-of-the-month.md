@@ -25,4 +25,4 @@ imagesOnPage: [
               ]
 ---
 
-### by Peggy M.
+### by Peggy M. 
