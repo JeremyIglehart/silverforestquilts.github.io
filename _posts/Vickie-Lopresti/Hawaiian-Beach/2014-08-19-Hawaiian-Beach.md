@@ -1,6 +1,6 @@
 ---
 layout:        quilt
-title:         Hawaiian Beach
+title:         Ko Samoi
 date:          2014-08-19 00:00:00
 
 tags: frontpage
@@ -28,3 +28,5 @@ imagesOnPage: [
 ---
 
 ### by Vickie Lopresti
+
+This Quilt was made for a wedding we are going to.  The couple will be honeymooning in Ko Samoi, Thailand .  And that is why I made this Artzy Quilt.  Not my comfort zone, at all.... and I have never had Custom machine quilting done before  - but Jackie really out did herself on this one.  Her Custom Work was Excellent!!   And she went above and beyond, what I expected her to do.  With all the Thread Color changes, and the detail work.  She put seashells in the sand,  Waves in the Ocean,  Birds and clouds in the sky and sun rays - But the Palm Tree really stands out the most.  The detail on that looks so real!!   I highly recommend her to machine quilt any design, custom or not.   I know she'll be doing many more of mine.
