@@ -28,5 +28,5 @@ This quilt was designed to show a simple block put on point with my Square-agona
 
 "Jackie's work is outstanding; she has the "eye" to take elements from the quilt design and incorporate them into the quilting.  Love her work!" 
 
- Jackie's note:  Sandi Blackwell, owner of ["Stitched Buy"] (https://www.stitchedbuy.com), is the creator of this wonderful technique known as Square-agonals© and can be contacted by email at stitchedbuy@aol.com and her patterns, books and info on speaking engagements can be found at her website by clicking on the link above.
+ Jackie's note:  Sandi Blackwell, owner of ["Stitched Buy"] (https://www.stitchedbuy.com), is the creator of this wonderful technique known as Square-agonals© and can be contacted by email at stitchedbuy@aol.com and her patterns, books and info on speaking engagements can be found at her website by clicking on the link above or going to www.stitchedbuy.com .
  
