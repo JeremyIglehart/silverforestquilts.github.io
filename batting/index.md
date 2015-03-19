@@ -28,4 +28,3 @@ Natural Blend 80/20 Cotton Poly  
 $.25
 
 
-.
