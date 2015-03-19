@@ -1,4 +1,4 @@
 silverforestquilts.github.io
 ============================
 
-silverforestquilts website
+Repository for silverforestquilts.com
